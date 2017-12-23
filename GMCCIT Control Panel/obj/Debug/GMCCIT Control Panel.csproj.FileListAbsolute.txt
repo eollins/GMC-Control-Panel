@@ -1,0 +1,32 @@
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.exe.config
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.exe
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.pdb
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.csprojResolveAssemblyReference.cache
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.Form1.resources
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.Properties.Resources.resources
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.csproj.GenerateResource.Cache
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.exe
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.pdb
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.NewUser.resources
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\Newtonsoft.Json.dll
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\Newtonsoft.Json.xml
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.NewConsignment.resources
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\RestSharp.dll
+c:\users\ethan\documents\visual studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.AddItems.resources
+C:\Users\ethan\Documents\Visual Studio 2017\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\CallBase.xml
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.exe.config
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.exe
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.pdb
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\CallBase.xml
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.exe
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\GMCCIT Control Panel.pdb
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\RestSharp.dll
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.csprojResolveAssemblyReference.cache
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.AddItems.resources
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.Form1.resources
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.NewConsignment.resources
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.NewUser.resources
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT_Control_Panel.Properties.Resources.resources
+C:\Users\ethan\Documents\Visual Studio 2015\Projects\GMCCIT Control Panel\GMCCIT Control Panel\obj\Debug\GMCCIT Control Panel.csproj.GenerateResource.Cache
